@@ -27,3 +27,7 @@
 ![WhatsApp Image 2021-10-12 at 12 44 38 (3)](https://user-images.githubusercontent.com/65374030/145651001-b15c14ae-8c83-4ef3-b168-1d4e815866d8.jpeg)
 ![WhatsApp Image 2021-10-12 at 12 44 38 (4)](https://user-images.githubusercontent.com/65374030/145651002-603123fa-b46a-49ce-9ba6-7905b5bf3982.jpeg)
 ![logo](https://user-images.githubusercontent.com/65374030/145651083-32bf91a0-7f6c-44c7-8c6d-c530e747593a.jpg)
+![camisa](https://user-images.githubusercontent.com/65374030/145658154-4d327c26-e1c6-4c2f-8a7b-dc6e94a17c37.png)
+![cangu](https://user-images.githubusercontent.com/65374030/145658155-8e051616-0169-4bde-ad96-2f6166fdb594.jpg)
+![gorra](https://user-images.githubusercontent.com/65374030/145658157-aaa7d4b2-7048-4ae9-8509-b48c9bc156ee.jpg)
+![sueta](https://user-images.githubusercontent.com/65374030/145658158-b242e8fc-8499-4cd2-9109-3561d729663b.jpg)
