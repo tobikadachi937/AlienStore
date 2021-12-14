@@ -36,12 +36,6 @@
 
 ![logo](https://user-images.githubusercontent.com/65374030/146095991-d6239885-4695-4fb2-adc9-cda37754560b.png)
 
-
-
-
-
-
-
 ![pic-4](https://user-images.githubusercontent.com/65374030/145658627-efde1b07-290f-4de5-a950-f88e66d1c24a.png)
 ![pic-1](https://user-images.githubusercontent.com/65374030/145658628-367dacab-69d2-474e-9ba6-fc2e94b695e6.png)
 ![pexels-francesco-ungaro-998641](https://user-images.githubusercontent.com/65374030/145662811-eef47005-a42f-4a0d-95a4-da78aac8e356.jpg)
@@ -54,3 +48,9 @@
 ![WhatsApp Image 2021-12-12 at 21 21 53 (1)](https://user-images.githubusercontent.com/65374030/146084337-d24be16f-5626-44ea-890a-0ba32bfa2cd3.jpeg)
 ![WhatsApp Image 2021-12-12 at 21 21 53 (2)](https://user-images.githubusercontent.com/65374030/146084339-bfbd549d-e56f-49cc-9e98-430ea7b2bcba.jpeg)
 ![WhatsApp Image 2021-12-12 at 21 21 53 (3)](https://user-images.githubusercontent.com/65374030/146084340-ba8a5750-be38-4ca2-831e-f9914d5738b7.jpeg)
+
+![alien playa](https://user-images.githubusercontent.com/65374030/146096416-1c7848ac-c50e-4284-b897-6f03b490c994.png)
+![ovni 2](https://user-images.githubusercontent.com/65374030/146096419-ead9a278-d72f-4281-ae06-228c43ea0116.png)
+![abduccion](https://user-images.githubusercontent.com/65374030/146096420-c87415f0-4789-4ee7-b95f-445971eb1f3f.png)
+
+
