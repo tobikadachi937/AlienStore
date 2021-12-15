@@ -51,6 +51,11 @@
 
 ![alien playa](https://user-images.githubusercontent.com/65374030/146096416-1c7848ac-c50e-4284-b897-6f03b490c994.png)
 ![ovni 2](https://user-images.githubusercontent.com/65374030/146096419-ead9a278-d72f-4281-ae06-228c43ea0116.png)
-![abduccion](https://user-images.githubusercontent.com/65374030/146096420-c87415f0-4789-4ee7-b95f-445971eb1f3f.png)
+![abduccion](https://user-images.githubusercontent.com/65374030/146096420-c87415f0-4789-4ee7-b95f-445971eb1f3f.png) 
+
+![mision-blog](https://user-images.githubusercontent.com/65374030/146101388-6fd61bc8-a0bb-49af-adfe-07e0d52e601d.png)
+![vision-1](https://user-images.githubusercontent.com/65374030/146101390-06610756-29cd-4824-8a99-d42588ddc5b7.jpg)
+![compromiso-laboral](https://user-images.githubusercontent.com/65374030/146101392-fcc8c83b-41da-4069-acd9-9ed801001b83.jpg)
+
 
 
