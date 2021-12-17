@@ -20,8 +20,5 @@ $asunto = 'Asunto del mensaje';
 
 mail($para, $asunto, utf8_decode($message), $header); 
 
-header("Location:index.html");
-
-
 
 ?>
