@@ -92,7 +92,7 @@ section{
     align-items: center; 
     justify-content: space-between; 
     padding: 2rem 9%;
-    
+    background-color: rgba(0, 0, 0, 0.384);
     box-shadow: var(--box-shadow);
 } 
 
@@ -310,6 +310,8 @@ section{
     color:var(--orange);
     text-decoration: underline;
 }
+
+
 
 /*Inicio home section starts*/ 
 
@@ -806,7 +808,8 @@ section{
         top:110%; right:-110%;
         width:30rem;
         box-shadow: var(--box-shadow);
-        border-radius: .5rem;
+        border-radius: .5rem; 
+        background-color: black;
         
     }
 
