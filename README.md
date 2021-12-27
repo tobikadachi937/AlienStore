@@ -57,3 +57,13 @@
 ![compromiso-laboral](https://user-images.githubusercontent.com/65374030/146101710-2cac2ff9-29f8-40c6-95d6-0c1c22137762.png)
 ![vision-1](https://user-images.githubusercontent.com/65374030/146101714-39021fc5-421a-412d-adf2-bad9857c58ba.png)
 
+![pope](https://user-images.githubusercontent.com/65374030/147433528-7c99a7b5-9293-4ab2-a364-21f67e60dd83.jpg)
+![andres](https://user-images.githubusercontent.com/65374030/147433529-a91f1284-56bf-4468-89eb-e18d8905a8c2.jpg)
+![giova](https://user-images.githubusercontent.com/65374030/147433530-1e28642e-8a8d-458d-a9f7-d52e417f46bf.jpg)
+
+
+
+
+
+
+
